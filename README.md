@@ -38,5 +38,3 @@ Then Install:
 - BeautifulSoup
 - fake-useragent (NEW)
 
-
-[Extraer correos de paginas web con Python](http://www.pythondiario.com/2018/04/extraer-correos-electronicos-de-paginas.html)
